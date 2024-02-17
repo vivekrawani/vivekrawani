@@ -8,6 +8,7 @@
 
 - 📫 How to reach me **kumarrawanivivek@gmail.com**
 
+- 🌱 I’m currently learning **NextJs**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vivekrawani07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekrawani07" height="30" width="40" /></a>
@@ -16,12 +17,6 @@
 <a href="https://codeforces.com/profile/vivekrawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vivekrawani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atticus/-lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivek_rawani" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vivek_rawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivek_rawani" height="30" width="40" /></a>
-</p>
-
-- 🌱 I’m currently learning **NextJs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
