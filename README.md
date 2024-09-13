@@ -4,6 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivekrawani07" target="blank"><img src="https://img.shields.io/twitter/follow/vivekrawani07?logo=twitter&style=for-the-badge" alt="vivekrawani07" /></a> </p>
 
+
 - 🔭 I’m currently working on [Johar Basket Admin](https://github.com/vivekrawani/sturdy-umbrella)
 
 - 📫 How to reach me **kumarrawanivivek@gmail.com**
@@ -19,4 +20,18 @@
 <a href="https://auth.geeksforgeeks.org/user/vivek_rawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivek_rawani" height="30" width="40" /></a>
 </p>
 <h3>Interests </h3>
-<p>Web dev, DevOps, AI/ML</p>
+<p>Web dev, App Dev,  DevOps, AI/ML</p>
+
+<!--Github stats Table--> 
+<h2 align="left">📦 Stats</h2> 
+
+![Vivek's ](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrawani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekrawani&theme=dark&hide_border=false)
+
+![Vivek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekrawani&theme=dark&hide_border=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekrawni&label=Profile%20views&color=0e75b6&style=flat" alt="Vivek" /> </p>
+
+
+
