@@ -19,8 +19,7 @@
 <a href="https://www.leetcode.com/atticus_lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivek_rawani" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vivek_rawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivek_rawani" height="30" width="40" /></a>
 </p>
-<h3>Interests </h3>
-<p>Web dev, App Dev,  DevOps, AI/ML</p>
+
 
 <!--Github stats Table--> 
 <h2 align="left">📦 Stats</h2> 
